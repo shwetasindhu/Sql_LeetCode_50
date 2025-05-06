@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0175-combine-two-tables) |
 | [0596-classes-more-than-5-students](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0619-biggest-single-number) |
+| [1135-customers-who-bought-all-products](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1155-product-sales-analysis-iii) |
 | [1877-find-followers-count](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
