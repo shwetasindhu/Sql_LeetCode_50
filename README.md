@@ -11,4 +11,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1155-product-sales-analysis-iii) |
 | [1877-find-followers-count](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
