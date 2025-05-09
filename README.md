@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0180-consecutive-numbers) |
+| [0585-investments-in-2016](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/0619-biggest-single-number) |
