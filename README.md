@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1155-product-sales-analysis-iii) |
 | [1480-movie-rating](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1480-movie-rating) |
+| [1670-patients-with-a-condition](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/shwetasindhu/Sql_LeetCode_50/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
